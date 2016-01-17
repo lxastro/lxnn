@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//examples/addition_rnn.py=utf-8
+encoding//examples/simple_chain_rnn.py=UTF-8
+encoding//keras_layer/attention.py=utf-8
+encoding//test/addition_attention_lstm.py=utf-8
+encoding//test/addition_lstm.py=utf-8
+encoding//test/addition_rnn.py=utf-8
